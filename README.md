@@ -20,7 +20,7 @@ This task involves building a model that can recognize emotions in speech audio.
 ## Task 3: Handwritten Character Recognition
 
 ### Description
-This task involves creating a handwritten character recognition system capable of recognizing various handwritten characters or alphabets.
+This task involves creating a handwritten character recognition system capable of recognizing various handwritten digits.
 
 ### Notebook
 - [TASK3.ipynb](./TASK3.ipynb)
@@ -28,7 +28,7 @@ This task involves creating a handwritten character recognition system capable o
 ## Task 4: Disease Prediction from Medical Data
 
 ### Description
-This task involves creating a model to predict the likelihood of a disease based on medical data (e.g., symptoms, patient history). The model uses labeled medical records and applies classification algorithms.
+This task involves creating a model to predict the likelihood of a disease based on medical data. The model uses labeled medical records and applies classification algorithms.
 
 ### Notebook
 - [TASK4.ipynb](./TASK4.ipynb)

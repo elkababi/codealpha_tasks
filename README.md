@@ -20,7 +20,7 @@ This task involves building a model that can recognize emotions in speech audio.
 ## Task 3: Handwritten Character Recognition
 
 ### Description
-This task involves creating a handwritten character recognition system capable of recognizing various handwritten characters or alphabets. The model can be extended to recognize entire words or sentences.
+This task involves creating a handwritten character recognition system capable of recognizing various handwritten characters or alphabets.
 
 ### Notebook
 - [TASK3.ipynb](./TASK3.ipynb)

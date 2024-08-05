@@ -8,7 +8,6 @@ This repository contains three distinct machine learning projects developed as p
 - [Task 4: Disease Prediction from Medical Data](#task-4-disease-prediction-from-medical-data)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 
 ## Task 2: Emotion Recognition from Speech
 
@@ -45,6 +44,37 @@ pip install -r requirements.txt
 
 ## Usage
 
-Each task is presented as a Jupyter notebook. You can open and run the notebooks using Jupyter Notebook or JupyterLab. Make sure to follow the instructions provided in each notebook to understand how to run the code, train the models, and test them.
+Each task is presented as a Jupyter notebook. You can open and run the notebooks using Jupyter Notebook or JupyterLab, but again, It is recommended to run the projects in Google Colab. Make sure to follow the instructions provided in each notebook to understand how to run the code, train the models, and test them.
+
+### Running Jupyter Notebooks Locally
+
+####   1.Clone this repository:
+  ```bash
+  git clone https://github.com/yourusername/codealpha_tasks.git
+  ```
+
+####   2.Navigate to the repository directory:
+  ```bash
+  cd codealpha_tasks
+  ```
+
+####   3.Start Jupyter Notebook or JupyterLab:
+  ```bash
+  jupyter notebook
+  ```
+
+or:
+  ```bash
+  jupyter lab
+  ```
+
+####  4.Open the desired notebook (e.g., TASK2.ipynb) and run the cells.
+
+### Running Jupyter Notebooks in Google Colab
+
+1.Open Google Colab in your browser.
+2.Upload the desired notebook (e.g., TASK2.ipynb) to Colab.
+4.Ensure you upload any necessary data files or modify the notebook to load data from external sources.
+5.Run the cells in the notebook.
 
 

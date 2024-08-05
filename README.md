@@ -15,7 +15,7 @@ This repository contains three distinct machine learning projects developed as p
 This task involves building a model that can recognize emotions in speech audio. The model classifies spoken sentences into different emotions like happiness, anger, or sadness using deep learning and speech processing techniques.
 
 ### Notebook
-- [TASK2.ipynb](./TASK2.ipynb)
+- [TASK2.ipynb](./TASK2/TASK2.ipynb)
 
 ## Task 3: Handwritten Character Recognition
 
@@ -23,7 +23,7 @@ This task involves building a model that can recognize emotions in speech audio.
 This task involves creating a handwritten character recognition system capable of recognizing various handwritten digits.
 
 ### Notebook
-- [TASK3.ipynb](./TASK3.ipynb)
+- [TASK3.ipynb](./TASK3/TASK3.ipynb)
 
 ## Task 4: Disease Prediction from Medical Data
 
@@ -31,7 +31,7 @@ This task involves creating a handwritten character recognition system capable o
 This task involves creating a model to predict the likelihood of a disease based on medical data. The model uses labeled medical records and applies classification algorithms.
 
 ### Notebook
-- [TASK4.ipynb](./TASK4.ipynb)
+- [TASK4.ipynb](./TASK4/TASK4.ipynb)
 
 ## Installation
 
